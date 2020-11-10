@@ -1,7 +1,7 @@
 # loan_predictions
 # A Data Science Project 
 
-## Aim - Our aim is to find the chances of getting loan for person basic on his/her credit history,education and income
+## Aim - Our aim is to find the chances of getting loan for person based on his/her credit history,education and income
 
    * We also analyse data i.e., -> Data analyzing
                                 -> Data wrangling
