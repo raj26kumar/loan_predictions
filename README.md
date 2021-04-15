@@ -3,10 +3,10 @@
 
 ## Aim - Our aim is to find the chances of getting loan for person based on his/her credit history,education and income
 
-   * We also analyse data i.e., -> Data analyzing
+   * Analyse data i.e., -> Data analyzing
                                 -> Data wrangling
    
-   * We visualize the data using seaborn, matplotlib
+   * Visualize the data using seaborn, matplotlib
    
-   * We create machine learning "Predictive Model" to train and test data with 3 differnt models.
+   * Create machine learning "Predictive Model" to train and test data with 3 differnt models.
    
